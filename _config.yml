@@ -109,7 +109,8 @@ analytics:
 author:
   name             : "Junghyun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello!"
+  bio              : "Sogang Univ. Business & CS Student
+                      -"
   location         : "Seoul, Korea"
   email            : "rockethyun@gmail.com"
   links:
