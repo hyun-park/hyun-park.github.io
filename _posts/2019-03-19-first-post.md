@@ -2,7 +2,6 @@
 title: "Hello First Blog!"
 date: 2019-03-19
 categories: etc
-layout: without_comments
 ---
 
 첫 번째 블로그 글입니다.  
