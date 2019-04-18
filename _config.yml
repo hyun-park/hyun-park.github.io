@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-137019821-1
     anonymize_ip         : # true, false (default)
 
 
@@ -109,7 +109,8 @@ analytics:
 author:
   name             : "Junghyun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello!"
+  bio              : "Sogang Univ. Business & CS Student
+                      -"
   location         : "Seoul, Korea"
   email            : "rockethyun@gmail.com"
   links:
