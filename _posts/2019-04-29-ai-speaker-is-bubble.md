@@ -4,6 +4,9 @@ date: 2019-04-29
 categories: insight
 ---
 
+> 해당 포스트는 Notion 을 이용해 작성되었습니다. 더 편하게 보실 분들은 링크를 이용해주세요.
+> [노션으로 보기](https://www.notion.so/rockethyun/2018-AI-ca953ebd45a94d02ba918764f9f73079)
+
 ## Part 1. 작년에 산 AI 스피커, 쓰긴 하십니까?
 
 _구글 트랜드를 이용해 AI 스피커의 2019 년 실제 사용량을 알아보자_
