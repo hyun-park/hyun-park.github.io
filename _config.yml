@@ -30,8 +30,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
-disqus_url: "https://hyun-park.disqus.com"
-disqus_id:  "hyun-park"
+disqus_url: "https://rockethyun.disqus.com"
+disqus_id:  "rockethyun"
 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
