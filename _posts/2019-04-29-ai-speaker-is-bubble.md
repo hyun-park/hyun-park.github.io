@@ -2,6 +2,7 @@
 title: "2018년 AI 스피커 대란은 거품이었다."
 date: 2019-04-29
 categories: insight
+layout: default
 ---
 
 > 해당 포스트는 Notion 을 이용해 작성되었습니다. 더 편하게 보실 분들은 링크를 이용해주세요.
