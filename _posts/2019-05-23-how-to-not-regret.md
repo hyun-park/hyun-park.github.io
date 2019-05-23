@@ -7,8 +7,6 @@ categories: insight
 > 해당 포스트의 내용은 Youtube 를 통해서도 볼 수 있습니다.
 > [유튜브로 보기](https://youtu.be/seAD0yo31HE)
 
-# 후회하지 않는 법
-
 ## 후회를 하는 이유
 
 사람들은 누구나 후회를 하며 산다.
