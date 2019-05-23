@@ -5,7 +5,7 @@ categories: insight
 ---
 
 > 해당 포스트의 내용은 Youtube 를 통해서도 볼 수 있습니다.
-> [유튜브로 보기](https://www.notion.so/rockethyun/2018-AI-ca953ebd45a94d02ba918764f9f73079)
+> [유튜브로 보기](https://youtu.be/seAD0yo31HE)
 
 # 후회하지 않는 법
 
